@@ -5,9 +5,12 @@ using namespace std;
 
 int main(){
 
+    int word;
+
     cout << "Hello World!" << endl;
-    cin << int word;
+    cin << word;
     cout << endl;
+    cin << word;
 
     return 0;
 }
